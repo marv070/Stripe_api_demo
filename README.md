@@ -3,8 +3,8 @@
 ## Setting Up Cloud9
 - Go to `c9.io` and log in
 - Create a new workspace
-  - `Workspace name` = `hello-stripe`
-  - `Clone from Git or Mercurial URL` = `https://github.com/tschaeff/stripe_checkout_integration_training.git`
+  - Workspace name = `hello-stripe`
+  - Clone from Git or Mercurial URL = https://github.com/tschaeff/stripe_checkout_integration_training.git
   - (everything else at defaults)
 
 
