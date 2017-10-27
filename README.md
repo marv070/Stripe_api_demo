@@ -21,3 +21,4 @@ In the terminal (at the bottom where it says `bash`) type:
 - After each change you make to our files:
   - save the file(s)
   - refresh the browser pane
+# Stripe_api_demo
