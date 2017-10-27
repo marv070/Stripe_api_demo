@@ -22,3 +22,4 @@ In the terminal (at the bottom where it says `bash`) type:
   - save the file(s)
   - refresh the browser pane
 # Stripe_api_demo
+# Stripe_api_demo
